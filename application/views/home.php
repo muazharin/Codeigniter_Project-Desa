@@ -30,10 +30,10 @@
         <div class="row h-100">
           <div class="col-12 my-auto">
             <div class="masthead-content text-white py-5 py-md-0">
-              <center><img src="<?php echo base_url();?>assets/img/logo.png" alt=""></center>
+              <center><img src="<?php echo base_url();?>assets/img/logo.png" alt=""></center><br>
               <form class="form-horizontal row-border" method="post">
-                  <center><h3>Aplikasi Perencanaan Kerja</h3>
-    			        <h5 class="mb-3">Dinas Kehutanan <br>Provinsi Sulawesi Tenggara</h5></center>
+                  <center><h3>Sistem Informasi Desa</h3>
+    			        <h5 class="mb-3">Provinsi Sulawesi Tenggara</h5></center>
                   <div class='form-group'>
         						<div class='col-md-10'>
         							<input type="text" class="form-control" placeholder="Enter Username" name="pass" aria-describedby="basic-addon">
